@@ -1,4 +1,4 @@
-# TimeSeries-SARIMA
+# TimeSeries
 
 Time series analysis and forecasting performed on the data taken from kaggle:
 
